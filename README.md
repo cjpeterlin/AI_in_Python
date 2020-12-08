@@ -1,6 +1,1 @@
-# AI_in_Python
-Resources from the Artificial Inteligence In Python book
-
-Hi humans!
-
-This is tacos.
+Classification and Regression Using Supervised Learning
